@@ -1,0 +1,7 @@
+.lp-cron-editor {
+  display: grid;
+  gap: 0.5rem;
+}
+.lp-cron-editor input[aria-invalid='true'] {
+  border-color: #b42318;
+}
